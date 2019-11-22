@@ -1,0 +1,45 @@
+This option is useful when we want to change commission permanently.
+
+Setting commissions for a shorter period of time
+This option is useful when we are negotiating commissions with clients and want to change it for a specified period of time.
+1)	At the beginning we should check what commission is assigned to the client's account.
+2)	Repeat steps A-B from previous slides (“Commision table for CIF”).
+3)	In order to change the commission we go to the "Promo condition" tab.
+4)	Then select the plus icon located in the upper right corner.
+5)	In the new tab we provide the following information:
+a.	new commission,
+b.	old commission (to which the customer will return),
+c.	description,
+d.	duration,
+e.	client  CIF number.
+6)	We select the save option.
+7)	At the end we check the commission assigned to the client in “Commision table for CIF” tab.
+8)	If it turns out that we have to change the commission again (negotiation process), we overwrite the settings. In order to do this, we must repeat steps 3-7.
+Useful information for negotiation process.
+1)	If the client wants to negotiate a commission, we kindly ask for:
+a.	the size of the transaction
+b.	when he's planning to exchange currency.
+2)	The starting point for negotiations is around 7000 EUR or the equivalent in another currency. This is not a fixed value. We can approach it subjectively.
+3)	We try not to give preferential terms for more than 3 months.
+4)	We start with a 20% discount. If the customer asks for more, we increase it in stages (20%, 30%, 40% etc.).
+Checking users information
+This option is useful when we want to check users information.
+1.	In order to find a user we go to the “Users” tab.
+2.	In the new tab we provide one of the following information:
+a.	client  CIF number
+b.	client e-mail address.
+3.	We select confirm button located in the upper right corner.
+4.	This tab searches only for individual clients.
+Adding a counter
+This option is useful when we want to increase clients counter.
+1.	In order to add a counter we go to “Client counter for CIF” tab.
+2.	At the beginning we check (using the CIF number) whether the client appears in the search results.
+3.	If not, we select the plus icon from the upper right corner.
+4.	In the new tab we provide following information:
+a.	client  CIF number
+b.	value of the counter that we want to add
+c.	currency
+5.	We select save button located in the upper right corner.
+6.	If client appeared in search results, we double click on it.
+7.	After this, repeat step 4 and save the changes.
+FAQ
